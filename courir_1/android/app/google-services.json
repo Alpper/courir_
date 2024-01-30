@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16775922154",
+    "project_id": "courir-a604f",
+    "storage_bucket": "courir-a604f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16775922154:android:2e2e89003c54598f25f293",
+        "android_client_info": {
+          "package_name": "com.example.courir_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKNPl8_H6LnUfTdzIbL0c2LIF4TKS5ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
