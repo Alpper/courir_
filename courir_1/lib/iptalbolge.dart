@@ -29,6 +29,7 @@ class bolgeler extends StatelessWidget {
   }
 
   CustomScrollView newMethod() {
+    
     return CustomScrollView(
       slivers: <Widget>[
         SliverAppBar(
