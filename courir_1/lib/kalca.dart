@@ -21,6 +21,7 @@ class kalca extends StatelessWidget {
         child: Column(children: [
           Row(
             children: [
+              
               GestureDetector(
                 child: Container(
                   width: 200,
