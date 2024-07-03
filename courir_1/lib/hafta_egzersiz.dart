@@ -40,6 +40,7 @@ class egzersizbolgeler extends StatelessWidget {
         ],
         leading: BackButton(
           color: Colors.white,
+          
         ),
         title: Text('Egzersiz Programı', style: TextStyle(color: Colors.white)),
         backgroundColor: Colors.grey.shade900,
