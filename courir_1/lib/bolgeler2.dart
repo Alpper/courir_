@@ -11,6 +11,7 @@ import 'package:courir_1/onkol.dart';
 import 'package:courir_1/sirt.dart';
 import 'package:flutter/material.dart';
 
+
 class boolge extends StatelessWidget {
   final DataModel dataModel;
 
