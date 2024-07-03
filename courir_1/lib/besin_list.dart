@@ -62,6 +62,7 @@ class besinlist extends StatelessWidget {
   }
 
   Widget buildList(String title, List<String> list) {
+    
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
