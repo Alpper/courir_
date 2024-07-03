@@ -2,7 +2,6 @@
 import 'package:courir_1/besin_list.dart';
 import 'package:courir_1/besinler.dart';
 import 'package:courir_1/hafta_egzersiz.dart';
-
 import 'package:courir_1/bolgeler2.dart';
 import 'package:courir_1/main.dart';
 import 'package:flutter/material.dart';
