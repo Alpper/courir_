@@ -5,6 +5,7 @@ class gogus extends StatelessWidget {
   final DataModel dataModel;
 
   gogus(this.dataModel);
+
   
   @override
   Widget build(BuildContext context) {
