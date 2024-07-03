@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:courir_1/abs.dart';
 import 'package:courir_1/anamenu.dart';
 import 'package:courir_1/arkakol.dart';
@@ -8,11 +7,9 @@ import 'package:courir_1/besin_list.dart';
 import 'package:courir_1/besinler.dart';
 import 'package:courir_1/firebase_options.dart';
 import 'package:courir_1/iptalbolge.dart';
-
 import 'package:courir_1/bolgeler2.dart';
 import 'package:courir_1/gogus.dart';
 import 'package:courir_1/kalca.dart';
-
 import 'package:courir_1/omuz.dart';
 import 'package:courir_1/onkol.dart';
 import 'package:firebase_core/firebase_core.dart';
