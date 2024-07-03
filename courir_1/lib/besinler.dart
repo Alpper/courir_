@@ -5,8 +5,7 @@ import 'package:flutter/material.dart';
 
 class besinler extends StatelessWidget {
   final DataModel dataModel;
-
-  besinler(this.dataModel);
+besinler(this.dataModel);
 
   @override
   Widget build(BuildContext context) {
