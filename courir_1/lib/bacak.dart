@@ -5,7 +5,6 @@ class bacak extends StatelessWidget {
  final DataModel dataModel;
 
   bacak(this.dataModel);
-
   
   @override
   Widget build(BuildContext context) {
